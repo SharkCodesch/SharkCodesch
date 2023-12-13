@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SharkCodesch
 - 👀 I’m interested in Python && JavaScript
 - 🌱 I’m currently learning both languages
-- 💞️ I’m looking to get better codding apps
+- 💞️ I’m looking to get better codding apps and understand api
 - 📫 How to reach me, shark@nuagelive.ch
 
 <!---
